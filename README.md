@@ -2,7 +2,9 @@
 - 👀 I’m interested in FullStack Development/ BlaockChain Development
 - 🌱 I’m currently learning Web-2.0 and want to learn Web-3.0
 - 💞️ I’m looking to collaborate on My Social Media 
-- 📫 How to reach me 
+- 📫 How to reach me
+-     InstaGram : https://www.instagram.com/nostack_fullstack/?next=%2F&hl=en
+-     LinkedIn : https://www.linkedin.com/in/varrey-shiva-ganesh-bhanu-prathyush-09907a199/
 - 😄 Pronouns: Mr/He/Him
 - ⚡ Fun fact: I'm a Newbie learning a lot looking for Full Time roles
 
