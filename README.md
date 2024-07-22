@@ -5,6 +5,7 @@
 - 📫 How to reach me
 -     InstaGram : nostack_fullstack
 -     LinkedIn : Varrey Shiva Ganesh Bhanu Prathyush
+-     Coding-Ninjas(DSA Platform) : https://www.naukri.com/code360/profile/cbec6c4f-7da1-4056-8126-e0e14179ac32
 - 😄 Pronouns: Mr/He/Him
 - ⚡ Fun fact: I'm a Newbie learning a lot looking for Full Time roles
 
